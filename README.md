@@ -9,3 +9,7 @@
 ## Correrlo
 
 `pnpm i` y luego `pnpm storybook`
+
+## Explicacion
+
+https://www.youtube.com/watch?v=xoKq8VyLOZ8
